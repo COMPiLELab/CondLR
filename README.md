@@ -1,5 +1,6 @@
 # Pytorch repository for "Robust low-rank training via approximate orthonormal constraints"
-## Paper submitted to NeurIPS2023, do not distribute.
+## Paper published at NeurIPS 2023
+
 
 ### Installation
 
